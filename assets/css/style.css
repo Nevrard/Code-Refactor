@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Defining background color for the Body of the page */
 body {
     background-color: #d9dcd6;
 }
-
+/* Defining styling properties for the items in the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Defining styling properties for the items under nav tag */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,21 +35,21 @@ body {
 .header nav ul {
     list-style-type: none;
 }
-
+/* Defining display  properties for the menu in the header */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* Defining Color properties for all links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* Defining styling properties for all praragraphs */
 p {
     font-size: 16px;
 }
-
+/* Defining creating and applying styling  the background image  */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,24 +58,25 @@ p {
     background-size: cover;
     background-position: center;
     
+    
 }
-
+/* Defining class that determine the position of the image "search-engine-optimization" and "social-media-marketing"*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/*Defining class that determine the position of the image "online-reputation-management"*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* Defining common styling properties for the items under main tag */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Defining common styling properties for the items under aside tag */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +87,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* defining a class that is applied on all section tags under Benefits*/
+/* defining a class that is applied on all section tags under aside*/
 .benefit-group{
     margin-bottom: 32px;
     color: #ffffff;
@@ -109,7 +110,7 @@ p {
 }
 */
 
-/* defining a class that is applied on all h3 tags under Benefits*/
+/* defining a class that is applied on all h3 tags under aside*/
 .benefit-h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -132,7 +133,7 @@ p {
 }
 */
 
-/* defining a class that is applied on all img tags under Benefits*/
+/* defining a class that is applied on all img tags under aside*/
 
 .benefit-img {
     display: block;
@@ -158,6 +159,18 @@ p {
     max-width: 150px;
 }
   */
+
+  /* defining a class that is applied on all section tags under main*/
+
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -184,6 +197,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+*/
+
 /*creating a class  to define the height of all images under main tag */
 
 .main-height {

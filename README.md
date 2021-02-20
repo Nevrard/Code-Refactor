@@ -35,14 +35,16 @@ It's the Botton part of the Website ,which gives the owner's information.
 
 ### Features 
 
-To achive our goal which is agin to make the Website accessible which can result to an optimiziation of it. Here are the change with made to make it happen.
+To achive our goal which is agin to make the Website accessible which can result to an optimiziation of it. Here are the change with made to make it happen:
 
--Including Semantic elemets in our Html files by replacing as much as possible the <div> tags with semantic tags such as van,header,main,section,aside
+
+-Including Semantic elemets in our Html files by replacing as much as possible the "div" tags with semantic tags such as "van","header","main","section","aside"
+-arrange elements to follow a logical structure independent of styling and positioning
 
 -Adding comments to the css code to make it more understandable.
 
 -Reducing as much as possible css code by defining  classes that can be used by multiple Elements in Html.
--Giving a Meaningfull title to the website.
+-Giving a Meaningfull  and consise title to the website.
 
 ### Technologies
 
