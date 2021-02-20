@@ -1,6 +1,6 @@
 # Code-Refactor
 ## Table of Contents
- * General info
+ * General information
  * features
  * Technologies
  * Setup
